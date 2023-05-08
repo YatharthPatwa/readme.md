@@ -21,7 +21,7 @@
 </p>
 <p align="center"> <a href="@chess.com/Jankessmurf</a>
 <!--   <a href="https://github.com/YatharthPatwa/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
-  <a href="https:youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> <a href="https://chess.com/Jankessmurf</a>My Chess Account - Let's play!</p>
+  <a href="https:youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a></p>
 <hr>
 <br><br><h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
