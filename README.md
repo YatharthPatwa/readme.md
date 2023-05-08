@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HalemoGPA/HalemoGPA" alt="HalemoGPA">    
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?center=true&lines=This+is+HalemoGPA;Nice+to+meet+you+%F0%9F%91%8B)](https://git.io/typing-svg)       -->
 
 <h1 align="center">
@@ -20,9 +19,9 @@
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="@chess.com/Jankessmurf</a> <a href="mailto:haleemborham3@gmail.com">
+<p align="center"> <a href="@chess.com/Jankessmurf</a>
 <!--   <a href="https://github.com/YatharthPatwa/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
-  <a href="https:youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> <a href="https://t.me/YatharthPatwa"></a></p>
+  <a href="https:youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a> <a href="https://chess.com/Jankessmurf</a>My Chess Account - Let's play!</p>
 <hr>
 <h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2><br>
 <p align="center">
