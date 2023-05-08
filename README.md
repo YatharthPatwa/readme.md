@@ -19,7 +19,7 @@
   <br>
   📫 How to reach me 👇
 </p>
-<p align="center"> <a href="@chess.com/Jankessmurf</a>
+<p align="center"><a
 <!--   <a href="https://github.com/YatharthPatwa/"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height=23></a> -->
   <a href="https:youtube.com"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height=23></a></p>
 <hr>
