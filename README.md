@@ -8,10 +8,9 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, Yatharth Patwa, Student & Self-taught Coder from INDIA (Living in England - Educational Purposes)
+  Hi, Yatharth Patwa, Student & Self-taught Coder
   <br>
   <br>
-  👨‍🎓 I'm currently studying for Exams
   <br>
   💻 I love Writing code, Software and learning anything about them 😊
   <br>
